@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Kushal Gupta</h1>
-<h3 align="center">A Data Analyst, ML Enthusiast & Software Developer</h3>
+<h1 align="left">Hi 👋, I'm Kushal Gupta</h1>
+<h3 align="left">A Data Analyst, ML Enthusiast & Software Developer</h3>
 
-- 👨‍💻 All of my projects are available at [https://kushal-gupta-portfolio.netlify.app/](https://kushal-gupta-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at this [link](https://kushal-gupta-portfolio.netlify.app/)
 
-- 📫 How to reach me **kushalgupta1203@gmail.com**
+- 📫 If you want to reach me, contact **mailto:kushalgupta1203@gmail.com**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
