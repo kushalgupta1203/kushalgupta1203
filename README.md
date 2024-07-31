@@ -45,5 +45,5 @@
 <h3>Design & Other</h3>
 <ul>
   <li><strong>Design:</strong> Figma, Photoshop</li>
-  <li><strong>Misc:</strong> Arduino, Bash, Excel, MS PowerPoint, POSTMAN</li>
+  <li><strong>Miscellaneous:</strong> Arduino, Bash, Excel, MS PowerPoint, POSTMAN</li>
 </ul>
