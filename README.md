@@ -1,7 +1,6 @@
-<h1 align="left">Hi 👋, I'm Kushal Gupta</h1>
+![banner](https://github.com/kushalgupta1203/kushalgupta1203/blob/main/banner.png)
 
-![Deadpool GIF](https://github.com/kushalgupta1203/kushalgupta1203/blob/main/gohan.gif)
-
+# Hi 👋, I'm Kushal Gupta
 
 - 👨‍💻 To know more, have a look at my [portfolio](https://kushal-gupta-portfolio.netlify.app/)
 
