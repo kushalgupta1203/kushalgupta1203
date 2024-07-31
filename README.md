@@ -153,6 +153,9 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
   </a>
 </p>
-![gif](https://github.com/kushalgupta1203/kushalgupta1203/blob/main/gif1.gif)
-![giff](https://github.com/kushalgupta1203/kushalgupta1203/blob/main/gif2.gif)
+<p float="left">
+  <img src="https://github.com/kushalgupta1203/kushalgupta1203/blob/main/gif1.gif" width="200" />
+  <img src="https://github.com/kushalgupta1203/kushalgupta1203/blob/main/gif2.gif" width="200" />
+</p>
+
 
