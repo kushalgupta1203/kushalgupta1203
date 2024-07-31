@@ -1,4 +1,4 @@
-# Hello, I am Kushal Gupta.
+# Hello, world!
 
 
 ![gif](https://github.com/kushalgupta1203/kushalgupta1203/blob/main/gif2.gif)
