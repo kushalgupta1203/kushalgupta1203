@@ -10,7 +10,7 @@
 
 <h3 align="left">Social Profiles:</h3>
 <p align="left">
-<a href="mailto:kushalgupta1203@gmail.com" target="blank"><img align="center" src="https://github.com/kushalgupta1203/kushalgupta1203/blob/main/gmail.png" alt="kushalgupta1203@gmail.com" height="30" width="40" /></a>
+<a href="mailto:kushalgupta1203@gmail.com" target="blank"><img align="center" src="https://github.com/kushalgupta1203/kushalgupta1203/blob/main/id.png" alt="kushalgupta1203@gmail.com" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/kushalgupta1203" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kushalgupta1203" height="30" width="40" /></a>
 <a href="https://twitter.com/kushalgupta1203" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kushalgupta1203" height="30" width="40" /></a>
 <a href="https://medium.com/@kushalgupta1203" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@kushalgupta1203" height="30" width="40" /></a>
