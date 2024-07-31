@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Kushal Gupta</h1>
-<h3 align="left">trying to do better.</h3>
+![ ]([https://github.com/username/repository/blob/main/path/to/your.gif](https://github.com/kushalgupta1203/kushalgupta1203/blob/main/deadpool.gif))
 
 - 👨‍💻 To know more, have a look at my [portfolio](https://kushal-gupta-portfolio.netlify.app/)
 
