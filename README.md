@@ -34,5 +34,5 @@
 - **ML Ops:** ZenML, MLflow, DagsHub, Mage, CI/CD
 
 ### Design & Other
-- **Design:** Figma, Photoshop
+- **Design:** Figma, Photoshop, Canva
 - **Misc:** Arduino, Bash, Excel, MS PowerPoint, POSTMAN
