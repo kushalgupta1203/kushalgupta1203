@@ -16,7 +16,7 @@
 ## Skills:
 
 ### Programming
-- **Languages:** Python, Java, JavaScript, SQL
+- **Languages:** Python, R, Java, JavaScript, SQL
 - **Concepts:** OOP, Data Structures, Algorithms, Probability, Statistics, Linear Algebra, AI/Mathematics
 
 ### Data Science
