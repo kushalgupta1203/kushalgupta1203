@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Kushal Gupta</h1>
-<h3 align="left">A Data Analyst, ML Enthusiast & Software Developer</h3>
+<h3 align="left">trying to do better.</h3>
 
 - 👨‍💻 To know more, have a look at my [portfolio](https://kushal-gupta-portfolio.netlify.app/)
 
