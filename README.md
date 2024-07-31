@@ -1,10 +1,12 @@
 # Hello, I am Kushal Gupta.
 
-![gif](https://github.com/kushalgupta1203/kushalgupta1203/blob/main/gif2.gif)
+
 
 - 👨‍💻 To know more, have a look at my [portfolio](https://kushal-gupta-portfolio.netlify.app/).
 
 - 📫 If you want to reach me, contact at **kushalgupta1203@gmail.com**.
+
+![gif](https://github.com/kushalgupta1203/kushalgupta1203/blob/main/gif2.gif)
 
 <h3 align="left">Social Profiles:</h3>
 <p align="left">
