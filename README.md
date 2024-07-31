@@ -26,7 +26,7 @@
 
 ### Libraries & Tools
 - **Web Development:** HTML, CSS, JavaScript, React, Tailwind, Django, Flask, Node.js
-- **Databases:** MongoDB, PostgreSQL, MySQL, MariaDB, MSSQL
+- **Databases:** MongoDB, PostgreSQL, MySQL
 - **Tools:** Google Colab, Anaconda, Streamlit
 
 ### Design & Other
