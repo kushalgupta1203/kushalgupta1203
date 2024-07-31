@@ -16,7 +16,7 @@
 ## Skills:
 
 ### Programming
-- **Languages:** Python, C, C++, Java, JavaScript, SQL
+- **Languages:** Python, Java, JavaScript, SQL
 - **Concepts:** OOP, Data Structures, Algorithms, Probability, Statistics, Linear Algebra, AI/Mathematics
 
 ### Data Science
@@ -25,7 +25,7 @@
 - **Visualization:** Tableau, Power BI
 
 ### Libraries & Tools
-- **Web Development:** HTML, CSS, JavaScript, React, Vue.js, Tailwind, Django, Flask, Express, Node.js
+- **Web Development:** HTML, CSS, JavaScript, React, Tailwind, Django, Flask, Node.js
 - **Databases:** MongoDB, PostgreSQL, MySQL, MariaDB, MSSQL
 - **Tools:** Google Colab, Anaconda, Streamlit
 
