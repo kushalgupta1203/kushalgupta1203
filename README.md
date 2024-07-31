@@ -1,6 +1,6 @@
 ![banner](https://github.com/kushalgupta1203/kushalgupta1203/blob/main/banner.png)
 
-# Hi 👋, I'm Kushal Gupta
+# Hello, I'm Kushal Gupta.
 
 - 👨‍💻 To know more, have a look at my [portfolio](https://kushal-gupta-portfolio.netlify.app/)
 
