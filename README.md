@@ -14,26 +14,36 @@
 </p>
 
 
-## Skills
+<h3>Skills</h3>
 
-### Programming
-- **Languages:** Python, C, C++, Java, JavaScript, SQL
-- **Concepts:** OOP, Data Structures, Algorithms, Competitive Programming
+<h4>Programming</h4>
+<ul>
+  <li><strong>Languages:</strong> Python, C, C++, Java, JavaScript, SQL</li>
+  <li><strong>Concepts:</strong> OOP, Data Structures, Algorithms, Competitive Programming</li>
+</ul>
 
-### Data Science
-- **Skills:** Data Analysis, Supervised & Unsupervised Learning, Deep Learning, NLP, Text Analysis
-- **Mathematics:** Probability, Statistics, Linear Algebra
+<h4>Data Science</h4>
+<ul>
+  <li><strong>Skills:</strong> Data Analysis, Supervised & Unsupervised Learning, Deep Learning, NLP, Text Analysis</li>
+  <li><strong>Mathematics:</strong> Probability, Statistics, Linear Algebra</li>
+</ul>
 
-### Libraries & Tools
-- **Libraries:** NumPy, Pandas, Scikit-Learn, Seaborn, Matplotlib, TensorFlow, Keras, PyTorch, NLTK, OpenCV, ZenML
-- **Visualization:** Tableau, Power BI
-- **Web Development:** HTML, CSS, JavaScript, React, Vue.js, Tailwind, Django, Flask, Express, Node.js
-- **Databases:** MongoDB, PostgreSQL, MySQL, MariaDB, MSSQL
+<h4>Libraries & Tools</h4>
+<ul>
+  <li><strong>Libraries:</strong> NumPy, Pandas, Scikit-Learn, Seaborn, Matplotlib, TensorFlow, Keras, PyTorch, NLTK, OpenCV, ZenML</li>
+  <li><strong>Visualization:</strong> Tableau, Power BI</li>
+  <li><strong>Web Development:</strong> HTML, CSS, JavaScript, React, Vue.js, Tailwind, Django, Flask, Express, Node.js</li>
+  <li><strong>Databases:</strong> MongoDB, PostgreSQL, MySQL, MariaDB, MSSQL</li>
+</ul>
 
-### DevOps & Cloud
-- **Tools:** Docker, Git, Jenkins, AWS, GCP
-- **ML Ops:** ZenML, MLflow, DagsHub, Mage, CI/CD
+<h4>DevOps & Cloud</h4>
+<ul>
+  <li><strong>Tools:</strong> Docker, Git, Jenkins, AWS, GCP</li>
+  <li><strong>ML Ops:</strong> ZenML, MLflow, DagsHub, Mage, CI/CD</li>
+</ul>
 
-### Design & Other
-- **Design:** Figma, Photoshop
-- **Misc:** Arduino, Bash, Excel, MS PowerPoint, POSTMAN
+<h4>Design & Other</h4>
+<ul>
+  <li><strong>Design:</strong> Figma, Photoshop</li>
+  <li><strong>Misc:</strong> Arduino, Bash, Excel, MS PowerPoint, POSTMAN</li>
+</ul>
