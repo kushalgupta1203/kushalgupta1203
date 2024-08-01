@@ -17,7 +17,7 @@
 
 ### Programming
 - **Languages:** Python, R, Java, JavaScript, SQL
-- **Concepts:** OOP, Data Structures, Algorithms, Probability, Statistics, Linear Algebra, AI/Mathematics
+- **Concepts:** OOP, Data Structures, Algorithms, Probability, Statistics, Linear Algebra, AI, Mathematics
 
 ### Data Science
 - **Skills:** Data Analysis, Supervised & Unsupervised Learning, Deep Learning, NLP, Text Analysis
