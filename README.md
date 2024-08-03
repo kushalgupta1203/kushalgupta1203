@@ -21,14 +21,14 @@
 
 ### Data Science
 - **Skills:** Data Analysis, Supervised & Unsupervised Learning, Deep Learning, NLP, Text Analysis
-- **Libraries:** NumPy, Pandas, Scikit-Learn, Seaborn, Matplotlib, TensorFlow, Keras, PyTorch, NLTK, OpenCV
-- **Visualization:** Tableau, Power BI
+- **Libraries:** NumPy, Pandas, Scikit-Learn, Seaborn, Matplotlib, TensorFlow, Keras, PyTorch, OpenCV
+- **Visualization:** Power BI
 
 ### Libraries & Tools
-- **Web Development:** HTML, CSS, JavaScript, React, Tailwind, Django, Flask, Node.js
-- **Databases:** MongoDB, PostgreSQL, MySQL
-- **Tools:** Google Colab, Anaconda, Streamlit
+- **Web Development:** HTML, CSS, JavaScript, React, Django, Flask
+- **Databases:** MongoDB, MySQL
+- **Tools:** Google Colab, Jupyter, Streamlit
 
 ### Design & Other
-- **Design:** Figma, Photoshop, Canva
-- **Misc:** Arduino, Bash, Excel, MS PowerPoint, POSTMAN
+- **Design:** Figma, Canva
+- **Misc:** Linux, Excel, MS PowerPoint
