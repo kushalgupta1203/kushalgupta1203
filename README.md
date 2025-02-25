@@ -15,20 +15,20 @@
 
 ## Skills:
 
-### Programming
-- **Languages:** Python, R, Java, JavaScript, SQL
-- **Concepts:** OOP, Data Structures, Algorithms, Probability, Statistics, Linear Algebra, AI, Mathematics
+### Programming and Databases
+- **Languages & Concepts:** Python, SQL, OOP, DSA  
+- **Databases:** MySQL, MongoDB  
 
-### Data Science
-- **Skills:** Data Analysis, Supervised & Unsupervised Learning, Deep Learning, NLP, Text Analysis
-- **Libraries:** NumPy, Pandas, Scikit-Learn, Seaborn, Matplotlib, TensorFlow, Keras, PyTorch, OpenCV
-- **Visualization:** Power BI
+### Data Science and ML
+- **Libraries & Tools:** NumPy, Pandas, Scikit-Learn, TensorFlow, OpenCV  
+- **Key Areas:** Model Evaluation  
 
-### Libraries & Tools
-- **Web Development:** HTML, CSS, JavaScript, React, Django, Flask
-- **Databases:** MongoDB, MySQL
-- **Tools:** Google Colab, Jupyter, Streamlit
+### Data Analysis and Visualization
+- **Concepts:** Statistics, EDA  
+- **Tools:** Power BI, Matplotlib, Seaborn  
 
-### Design & Other
-- **Design:** Figma, Canva
-- **Misc:** Linux, Excel, MS PowerPoint
+### Others
+- **Tools & Technologies:** Git, Jupyter Notebook, VS Code, Excel, HTML, CSS  
+
+### Soft Skills
+- **Core Skills:** Problem-Solving, Communication, Leadership, Teamwork  
