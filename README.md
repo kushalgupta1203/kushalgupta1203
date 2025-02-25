@@ -16,19 +16,16 @@
 ## Skills:
 
 ### Programming and Databases
-- **Languages & Concepts:** Python, SQL, OOP, DSA  
-- **Databases:** MySQL, MongoDB  
+- Python, SQL, OOP, DSA, MySQL, MongoDB  
 
 ### Data Science and ML
-- **Libraries & Tools:** NumPy, Pandas, Scikit-Learn, TensorFlow, OpenCV  
-- **Key Areas:** Model Evaluation  
+- NumPy, Pandas, Scikit-Learn, TensorFlow, OpenCV, Model Evaluation  
 
 ### Data Analysis and Visualization
-- **Concepts:** Statistics, EDA  
-- **Tools:** Power BI, Matplotlib, Seaborn  
+- Statistics, EDA, Power BI, Matplotlib, Seaborn  
 
 ### Others
-- **Tools & Technologies:** Git, Jupyter Notebook, VS Code, Excel, HTML, CSS  
+- Git, Jupyter Notebook, VS Code, Excel, HTML, CSS  
 
 ### Soft Skills
-- **Core Skills:** Problem-Solving, Communication, Leadership, Teamwork  
+- Problem-Solving, Communication, Leadership, Teamwork  
