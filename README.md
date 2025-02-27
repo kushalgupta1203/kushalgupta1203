@@ -13,19 +13,23 @@
 <a href="https://www.leetcode.com/kushalgupta1203" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kushalgupta1203" height="30" width="40" /></a>
 </p>
 
-## Skills:
+## Skills  
 
-### Programming and Databases
-- Python, SQL, OOP, DSA, MySQL, MongoDB  
+### Programming  
+- Python, Java, JavaScript, HTML, CSS  
 
-### Data Science and ML
-- NumPy, Pandas, Scikit-Learn, TensorFlow, OpenCV, Model Evaluation  
+### Data Science & Analysis  
+- Exploratory Data Analysis (EDA), NumPy, Pandas, Scikit-Learn, TensorFlow, OpenCV  
+- Model Testing & Evaluation, Matplotlib, Seaborn  
 
-### Data Analysis and Visualization
-- Statistics, EDA, Power BI, Matplotlib, Seaborn  
+### Technical Proficiency  
+- Machine Learning (ML), Artificial Intelligence (AI)  
+- Object-Oriented Programming (OOP), Data Structures and Algorithms (DSA)  
+- Software Development Life Cycle (SDLC)  
 
-### Others
-- Git, Jupyter Notebook, VS Code, Excel, HTML, CSS  
+### Databases & Tools  
+- SQL, Power BI, VS Code, Git, Excel, MongoDB  
 
-### Soft Skills
+### Soft Skills  
 - Problem-Solving, Communication, Leadership, Teamwork  
+
