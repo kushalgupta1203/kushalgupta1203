@@ -16,7 +16,7 @@
 ## Skills  
 
 ### Programming  
-- Python, Java, JavaScript, HTML, CSS  
+- Python, Java
 
 ### Data Science & Analysis  
 - Exploratory Data Analysis (EDA), NumPy, Pandas, Scikit-Learn, TensorFlow, OpenCV  
@@ -25,11 +25,12 @@
 ### Technical Proficiency  
 - Machine Learning (ML), Artificial Intelligence (AI)  
 - Object-Oriented Programming (OOP), Data Structures and Algorithms (DSA)  
-- Software Development Life Cycle (SDLC)  
+- Software Development Life Cycle (SDLC), Automation Testing 
 
 ### Databases & Tools  
-- SQL, Power BI, VS Code, Git, Excel, MongoDB  
+- SQL, Power BI, VS Code, Git, Excel, MongoDB, JIRA, Postman 
 
 ### Soft Skills  
 - Problem-Solving, Communication, Leadership, Teamwork  
 
+![svg](https://github.com/kushalgupta1203/kushalgupta1203/blob/main/public/bottom.svg)
