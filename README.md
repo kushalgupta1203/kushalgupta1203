@@ -1,12 +1,11 @@
 # Hello, World! 👋
 
-![gif](https://github.com/kushalgupta1203/kushalgupta1203/blob/main/public/user.gif)
-
 I'm **Kushal Gupta**, a passionate software developer and AI enthusiast skilled in building intelligent applications using Python, Java, and modern frameworks. I love solving real-world problems with code and creating meaningful user experiences through full-stack development and data-driven solutions.
 
----
+![gif](https://github.com/kushalgupta1203/kushalgupta1203/blob/main/public/user.gif)
 
-## 🌐 Connect with Me
+
+## Connect with Me
 
 <p align="left">
   <a href="mailto:kushalgupta1203@gmail.com" target="blank">
@@ -28,8 +27,6 @@ I'm **Kushal Gupta**, a passionate software developer and AI enthusiast skilled 
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Leetcode" height="30" width="40" />
   </a>
 </p>
-
----
 
 ## Technical Skills
 
