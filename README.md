@@ -31,29 +31,29 @@ I'm **Kushal Gupta**, a passionate software developer and AI enthusiast skilled 
 
 ---
 
-## 💻 Technical Skills
+## Technical Skills
 
-### 🧠 Programming & Scripting
+### Programming & Scripting
 - Python, Java, SQL, HTML, CSS, JavaScript
 
-### ⚙️ Frameworks & Libraries
+### Frameworks & Libraries
 - Django, Flask, FastAPI, React.js, NumPy, pandas, Matplotlib, Seaborn, Scikit-Learn, TensorFlow, OpenCV
 
-### 🗃️ Databases
+### Databases
 - MySQL, MongoDB, SQLite, SQLAlchemy
 
-### 🔧 Tools & Platforms
+### Tools & Platforms
 - Git, JIRA, Docker, Postman, Power BI, Excel, VS Code, Render, Netlify, Streamlit
 
-### 🧪 Testing & Methodologies
+### Testing & Methodologies
 - pytest, Selenium, Postman, Test Automation, SDLC, Agile
 
-### 📘 Core CS Subjects
+### Core CS Subjects
 - Data Structures, DBMS, Operating Systems, Computer Networks, AI, ML, Statistics
 
-### 🤝 Soft Skills
+### Soft Skills
 - Problem Solving, Communication, Teamwork, Leadership, Analytical Thinking
 
----
+
 
 ![svg](https://github.com/kushalgupta1203/kushalgupta1203/blob/main/public/bottom.svg)
